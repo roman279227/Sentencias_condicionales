@@ -1,6 +1,7 @@
 
 package sentencias_condicionales;
 import java.util.Scanner;
+import java.io.IOException;
 
 
 public class Estructura_Switch {
