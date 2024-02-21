@@ -19,10 +19,10 @@ public class Estructura_ifElse {
      */
     public static void main(String[] args) {
          // DeclaraciÃ³n e inicializaciÃ³n de variables
-        int num_aciertos = 12;
-        int num_errores = 3;
-        int num_preguntas = 20;
-        float nota = 0;
+        double num_aciertos = 12;
+        double num_errores = 3;
+        double num_preguntas = 20;
+        double nota = 0;
         String calificacion="";
     
         //Procesamiento de datos
