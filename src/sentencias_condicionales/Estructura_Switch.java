@@ -1,7 +1,6 @@
 
 package sentencias_condicionales;
 import java.util.Scanner;
-import java.io.IOException;
 
 
 public class Estructura_Switch {
@@ -20,7 +19,7 @@ public class Estructura_Switch {
     
     int numero=teclado.nextInt();
          
-    try{   
+   
     
     switch(numero){
         
@@ -53,13 +52,10 @@ public class Estructura_Switch {
             
     }
     
-    }catch(Exception e){
-        
-        System.err.println("Debes escribir un número");
-        
-        e.printStackTrace();
-        
-    }
+    
+    
+    
+    
    }
 
 
