@@ -13,9 +13,7 @@ public class Estructura_if {
     int edad=21;
     double altura=1.8;
     
-    if(edad>18)
-        
-    System.out.println("Bienvenido ");
+    if(edad>18) System.out.println("Bienvenido ");
     
     
     if(altura<2){
