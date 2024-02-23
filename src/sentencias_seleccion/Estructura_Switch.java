@@ -1,5 +1,5 @@
 
-package sentencias_condicionales;
+package sentencias_seleccion;
 import java.util.Scanner;
 
 
